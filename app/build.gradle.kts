@@ -43,6 +43,7 @@ dependencies {
     implementation(project(":lab-tokens"))
     implementation(project(":lab-embeddings"))
     implementation(project(":lab-outputs"))
+    implementation(project(":lab-transformers"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
