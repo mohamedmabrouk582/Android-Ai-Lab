@@ -26,3 +26,4 @@ rootProject.name = "Ai Lab"
 include(":app")
 include(":lab-api")
 include(":lab-inference")
+include(":lab-tensors")
