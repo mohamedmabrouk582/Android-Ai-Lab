@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <application>
+        <activity
+            android:name="com.mabrouk.ailab.inference.InferenceLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.tensors.TensorsLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.tokens.TokensLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.embeddings.EmbeddingsLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.outputs.OutputsLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.transformers.TransformersLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.prompting.PromptingLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.rag.RagLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.agents.AgentsLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.evaluation.EvaluationLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.quantization.QuantizationLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.privacy.PrivacyLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.mlkittasks.MlkitTasksLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.promptapi.PromptApiLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.structuredoutput.StructuredOutputLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.genaitasks.GenaiTasksLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.litertcpu.LitertCpuLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.litertgpu.LitertGpuLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.litertruntime.LitertRuntimeLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.modeldelivery.ModelDeliveryLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.ondevicerag.OnDeviceRagLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.litertlm.LitertLmLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.speech.SpeechLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.camerax.CameraxLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.performance.PerformanceLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.appfunctions.AppfunctionsLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.testing.TestingLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+        <activity
+            android:name="com.mabrouk.ailab.playpolicy.PlayPolicyLabActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+    </application>
+</manifest>
