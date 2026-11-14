@@ -2,6 +2,8 @@
 
 Ai Lab is the course from Android engineer to Android AI engineer. One app holds one module per topic. Open any topic. When a topic's bench exists, you finish it by passing its check.
 
+Each topic page below is the written reference for that idea. It explains the mechanism, walks a concrete example, shows the pipeline, and points at the official pages. Read it before you open the lab.
+
 Run and Check are on every topic screen and do nothing yet. The interactive benches come next. This slice does not ship a model.
 
 ## Run

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lab-agents" />
+            <option value="$PROJECT_DIR$/lab-api" />
+            <option value="$PROJECT_DIR$/lab-appfunctions" />
+            <option value="$PROJECT_DIR$/lab-camerax" />
+            <option value="$PROJECT_DIR$/lab-embeddings" />
+            <option value="$PROJECT_DIR$/lab-evaluation" />
+            <option value="$PROJECT_DIR$/lab-genai-tasks" />
+            <option value="$PROJECT_DIR$/lab-inference" />
+            <option value="$PROJECT_DIR$/lab-litert-cpu" />
+            <option value="$PROJECT_DIR$/lab-litert-gpu" />
+            <option value="$PROJECT_DIR$/lab-litert-lm" />
+            <option value="$PROJECT_DIR$/lab-litert-runtime" />
+            <option value="$PROJECT_DIR$/lab-mlkit-tasks" />
+            <option value="$PROJECT_DIR$/lab-model-delivery" />
+            <option value="$PROJECT_DIR$/lab-on-device-rag" />
+            <option value="$PROJECT_DIR$/lab-outputs" />
+            <option value="$PROJECT_DIR$/lab-performance" />
+            <option value="$PROJECT_DIR$/lab-play-policy" />
+            <option value="$PROJECT_DIR$/lab-privacy" />
+            <option value="$PROJECT_DIR$/lab-prompt-api" />
+            <option value="$PROJECT_DIR$/lab-prompting" />
+            <option value="$PROJECT_DIR$/lab-quantization" />
+            <option value="$PROJECT_DIR$/lab-rag" />
+            <option value="$PROJECT_DIR$/lab-speech" />
+            <option value="$PROJECT_DIR$/lab-structured-output" />
+            <option value="$PROJECT_DIR$/lab-tensors" />
+            <option value="$PROJECT_DIR$/lab-testing" />
+            <option value="$PROJECT_DIR$/lab-tokens" />
+            <option value="$PROJECT_DIR$/lab-transformers" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
