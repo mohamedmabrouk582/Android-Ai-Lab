@@ -56,6 +56,7 @@ dependencies {
     implementation(project(":lab-genai-tasks"))
     implementation(project(":lab-litert-cpu"))
     implementation(project(":lab-litert-gpu"))
+    implementation(project(":lab-litert-runtime"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
