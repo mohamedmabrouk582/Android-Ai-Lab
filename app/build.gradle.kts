@@ -40,6 +40,7 @@ dependencies {
     implementation(project(":lab-api"))
     implementation(project(":lab-inference"))
     implementation(project(":lab-tensors"))
+    implementation(project(":lab-tokens"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
