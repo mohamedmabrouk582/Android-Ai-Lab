@@ -60,6 +60,7 @@ dependencies {
     implementation(project(":lab-model-delivery"))
     implementation(project(":lab-on-device-rag"))
     implementation(project(":lab-litert-lm"))
+    implementation(project(":lab-speech"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
