@@ -54,6 +54,7 @@ dependencies {
     implementation(project(":lab-prompt-api"))
     implementation(project(":lab-structured-output"))
     implementation(project(":lab-genai-tasks"))
+    implementation(project(":lab-litert-cpu"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
