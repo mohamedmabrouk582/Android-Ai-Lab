@@ -52,6 +52,7 @@ dependencies {
     implementation(project(":lab-privacy"))
     implementation(project(":lab-mlkit-tasks"))
     implementation(project(":lab-prompt-api"))
+    implementation(project(":lab-structured-output"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
