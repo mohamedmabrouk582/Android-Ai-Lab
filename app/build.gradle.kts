@@ -58,6 +58,7 @@ dependencies {
     implementation(project(":lab-litert-gpu"))
     implementation(project(":lab-litert-runtime"))
     implementation(project(":lab-model-delivery"))
+    implementation(project(":lab-on-device-rag"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
