@@ -65,6 +65,7 @@ dependencies {
     implementation(project(":lab-performance"))
     implementation(project(":lab-appfunctions"))
     implementation(project(":lab-testing"))
+    implementation(project(":lab-play-policy"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
