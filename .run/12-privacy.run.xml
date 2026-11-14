@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="12 Privacy, safety, on-device and cloud" type="AndroidRunConfigurationType" factoryName="Android App">
+    <module name="Ai_Lab.app" />
+    <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+    <option name="DEPLOY" value="true" />
+    <option name="MODE" value="specific_activity" />
+    <option name="ACTIVITY" value="com.mabrouk.ailab.privacy.PrivacyLabActivity" />
+    <option name="ACTIVITY_CLASS" value="com.mabrouk.ailab.privacy.PrivacyLabActivity" />
+    <method v="2">
+      <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

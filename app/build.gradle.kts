@@ -49,6 +49,7 @@ dependencies {
     implementation(project(":lab-agents"))
     implementation(project(":lab-evaluation"))
     implementation(project(":lab-quantization"))
+    implementation(project(":lab-privacy"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
