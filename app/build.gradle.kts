@@ -61,6 +61,7 @@ dependencies {
     implementation(project(":lab-on-device-rag"))
     implementation(project(":lab-litert-lm"))
     implementation(project(":lab-speech"))
+    implementation(project(":lab-camerax"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
