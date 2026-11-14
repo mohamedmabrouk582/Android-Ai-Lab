@@ -50,6 +50,7 @@ dependencies {
     implementation(project(":lab-evaluation"))
     implementation(project(":lab-quantization"))
     implementation(project(":lab-privacy"))
+    implementation(project(":lab-mlkit-tasks"))
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
