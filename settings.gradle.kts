@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "Ai Lab"
 include(":app")
 include(":lab-api")
+include(":lab-inference")
