@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="25 First run, heat, and the profiler" type="AndroidRunConfigurationType" factoryName="Android App">
+    <module name="Ai_Lab.app" />
+    <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+    <option name="DEPLOY" value="true" />
+    <option name="MODE" value="specific_activity" />
+    <option name="ACTIVITY" value="com.mabrouk.ailab.performance.PerformanceLabActivity" />
+    <option name="ACTIVITY_CLASS" value="com.mabrouk.ailab.performance.PerformanceLabActivity" />
+    <method v="2">
+      <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
